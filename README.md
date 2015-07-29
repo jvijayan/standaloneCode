@@ -1,0 +1,2 @@
+# standaloneCode
+standalone Applications
